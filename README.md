@@ -84,11 +84,11 @@ The dataset includes information from 16 patients participating in a clinical tr
 
 
 ## Key Findings
-1. Treatment effectiveness varies across groups, with notable differences in follow-up scores
-2. Adverse events show distinct patterns across treatment groups
-3. Age distribution reveals demographic patterns in the trial population
-4. Gender differences exist in treatment responses
-5. Baseline scores show correlation with treatment outcomes
+1. Treatment groups A and B have lower average follow-up scores than the Control group, suggesting treatment effectiveness. Treatment A outperforms Treatment B.
+2. Treatment groups A and B show higher adverse events compared to the Control, indicating potential side effects. Treatment B has a higher median of adverse events than Treatment A.
+3. The age distribution is evenly spread across the 26-55 range. There is clustering in the 30s and 40s, providing a balanced demographic overview.
+4. Gender differences exist in treatment responses. In treatment A, Male show greater improvement, while in treatment B, Female show greater improvement.
+5. Baseline scores show negative correlation with treatment outcomes.
 
 
 ## Contributing
